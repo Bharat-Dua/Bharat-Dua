@@ -4,7 +4,7 @@ Hi 👋 My name is Bharat-Dua
 Front End Developer
 -------------------
 
-I'm a passionate individual on a journey to becoming a full-stack web developer.I'm embracing the exciting world of programming and continually expanding my skill set.
+I'm a passionate individual on a journey to becoming a full-stack web developer. I'm embraceing the exciting world of programming and continually expand my skill set.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [bharatdua13@gmail.com](mailto:bharatdua13@gmail.com)
